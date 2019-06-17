@@ -15,7 +15,7 @@ etc.
 
 
  [!IMPORTANT]
-> PTT 多重帳號管理辦法（2018/01/02修訂）
+[PTT 多重帳號管理辦法（2018/01/02修訂）](https://www.ptt.cc/man/PttNewhand/D8DE/M.1514917014.A.B7A.html)
 
         一、帳號持有數量
 
@@ -23,4 +23,4 @@ etc.
             同且詳實填寫。
 
 
-[PTT 多重帳號管理辦法（2018/01/02修訂）](https://www.ptt.cc/man/PttNewhand/D8DE/M.1514917014.A.B7A.html)
+
